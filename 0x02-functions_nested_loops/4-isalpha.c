@@ -3,7 +3,7 @@
 /**
  * _isalpha - function that checks for alphabets
  * @c: paramter to be checked
- * Return : 1 if it is an alphabet 
+ * Return : 1 if it is an alphabet
  * and 0 if otherwise
  */
 int _isalpha(int c)
