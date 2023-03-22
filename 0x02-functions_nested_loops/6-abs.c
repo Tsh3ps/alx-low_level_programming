@@ -5,10 +5,10 @@
   *
   * @a: parameter to be checked
   *
-  * Return: always parameter checked
+  * Return: always a
   */
 
-int _abs(a)
+int _abs(int a)
 {
 	if (a < 0)
 		a = -(a);
